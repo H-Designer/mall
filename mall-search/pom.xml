@@ -30,11 +30,4 @@
             <artifactId>spring-boot</artifactId>
         </dependency>
     </dependencies>
-
-    <build>
-        <plugins>
-
-        </plugins>
-    </build>
-
 </project>
